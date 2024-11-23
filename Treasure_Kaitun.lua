@@ -1,10 +1,10 @@
 _G.KaitunConfig = {
     ["Start Farm"] = true,
 
-	  ["Select"] = "Legendary Chest",
+     ["Select"] = "Legendary Chest",
 
     ["Buy Item"] = true,
-	  ["Buy Tool"] = true,
+    ["Buy Tool"] = true,
 
     -- [Setting]
     ["Disable 3D Rendering"] = true,
